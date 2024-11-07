@@ -1,0 +1,10 @@
+.ctc {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    padding: 20px ;
+}
+.lodinfBtn{
+    display: flex;
+    justify-content: center;
+}
